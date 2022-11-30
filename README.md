@@ -1,11 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=whtmdgus%20GitHub&fontSize=40&animation=scaleIn&fontAlign=70&fontAlignY=30)
 
 
+       ![아구몬](https://user-images.githubusercontent.com/118142479/204914367-69cc8d32-e0ec-4b63-b558-417bc7a0acb8.gif)
+
+
 
 ### Hi there 👋
 
 
 Tech Stack :sparkles: 
+
+
 
 
 
