@@ -1,8 +1,8 @@
 
 <div align="center">
   
-# Hellow, i'm tmdgus👍
-  ![1](https://user-images.githubusercontent.com/118142479/207034849-b0080ae6-9905-48f4-8da0-9ece8d78d08d.gif)
+# Hello, I'm tmdgus👍
+ 
 
   
  ## ⚒️Stacks
