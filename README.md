@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Hello, I'm tmdgus👍
+# Hello, I'm tmdgus🚀
  
 
   
@@ -24,24 +24,9 @@
  </P>
 
 
-## 💖About Me
+
   
-  <p >  
  
-  
-  
-   
-</p>
-
-  <P>  
- 
-
-
-
-</P>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgus95&langs_count=8)](https://github.com/tmdgus95/github-readme-stats)
 
 
