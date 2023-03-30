@@ -23,12 +23,35 @@
 
  </div>
   
-## 💌Contact Me 
-<p>8571053@naver.com</p>
+## Contact Me ❤
+<p>Mail: 8571053@naver.com 💌</p>
+<p>Resume: <a href="https://plume-fruit-d51.notion.site/571759f3fc704b1ea3c278947f8480f6" target="_blank">
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a></p>
+
+
+
+<a href="https://velog.io/@tmdgus4977" target="_blank">
+ <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
+<a href="https://open.kakao.com/o/sxQizD9e" target="_blank">
+ <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+</a>
+
+
 
   
+ ## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tmdgus95&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgus95&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgus95&langs_count=8)](https://github.com/tmdgus95/github-readme-stats)
 
 
 
