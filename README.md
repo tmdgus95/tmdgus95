@@ -1,8 +1,8 @@
 
 <div align="center">
   
-# Hello, I'm tmdgus🚀
- 
+<h1> Hello, I'm tmdgus🚀</h1>
+<p>안녕하세요! 꾸준히 성장하는 개발자 조승현입니다.</p>
 
   
  ## ⚒️Stacks
@@ -20,6 +20,7 @@
 
  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 
  </div>
   
@@ -42,7 +43,8 @@
 
   
  ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table >
+<tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tmdgus95&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
