@@ -32,9 +32,7 @@
 
 
 
-<a href="https://velog.io/@tmdgus4977" target="_blank">
- <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
+
 <a href="https://open.kakao.com/o/sxQizD9e" target="_blank">
  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 </a>
