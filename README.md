@@ -1,11 +1,11 @@
 
 <div align="center">
   
-<h1> Hello, I'm tmdgus🚀</h1>
+<h3> Hello, I'm Seung Hyeon🚀</h3>
 <p>안녕하세요! 꾸준히 성장하는 개발자 조승현입니다.</p>
 
   
- ## ⚒️Stacks
+ ### ⚒️Stacks
 <div >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -24,23 +24,21 @@
 
  </div>
   
-## Contact Me ❤
+### Contact Me ❤
 <p>Mail: 8571053@naver.com 💌</p>
-<p>Resume: <a href="https://plume-fruit-d51.notion.site/571759f3fc704b1ea3c278947f8480f6" target="_blank">
+<p>Resume:&nbsp;&nbsp; <a href="https://plume-fruit-d51.notion.site/571759f3fc704b1ea3c278947f8480f6" target="_blank">
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a></p>
+
+<p>Message:&nbsp;&nbsp; <a href="https://open.kakao.com/o/sxQizD9e" target="_blank">
+ <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 </a></p>
 
 
 
 
-<a href="https://open.kakao.com/o/sxQizD9e" target="_blank">
- <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
-</a>
-
-
-
   
- ## Github Stats  
+ ### Github Stats  
 <table >
 <tr><td valign="top" width="50%">
 
