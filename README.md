@@ -1,52 +1,30 @@
 
-<div align="center">
-  
-<h3> Hello, I'm Seung Hyeon🚀</h3>
-<p>안녕하세요! 꾸준히 성장하는 개발자 조승현입니다.</p>
-
-  
- ### ⚒️Stacks
-<div >
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-    <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-
- <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
-
- </div>
-  
-### Contact Me ❤
-<p>Mail: 8571053@naver.com 💌</p>
-<p>Resume:&nbsp;&nbsp; <a href="https://plume-fruit-d51.notion.site/571759f3fc704b1ea3c278947f8480f6" target="_blank">
- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a></p>
-
-  
- ### Github Stats  
-<table >
-<tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tmdgus95&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgus95&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> 
- 
-
-
-
-
+<h3 align="left"> ⚒ Languages and Tools:</h3>
+<div align="left">
+  <div>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" >
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+    <img src="https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=0175C2" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&logoColor=ffffff" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+  </div>
 </div>
 
+<h3>🖥 GitHub Analytics:</h3>
+<p>
+  <a href="https://github.com/tmdgus95">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgus95&theme=tokyonight" />
+  </a>
 
+  <a href="https://github.com/tmdgus95">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tmdgus95&show_icons=true&theme=tokyonight&line_height=27" alt="Github Gtats"/>
+  </a>
+
+</p>
