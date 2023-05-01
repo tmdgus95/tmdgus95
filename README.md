@@ -30,13 +30,6 @@
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a></p>
 
-<p>Message:&nbsp;&nbsp; <a href="https://open.kakao.com/o/sxQizD9e" target="_blank">
- <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
-</a></p>
-
-
-
-
   
  ### Github Stats  
 <table >
